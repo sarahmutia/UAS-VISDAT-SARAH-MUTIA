@@ -15,9 +15,6 @@
 
 <h3>Visualisasi Data</h3>
 <p align="justify">Data yang telah selesai dilakukan preprocessing, selanjutnya dilakukan visualisasi. Namun sebelum itu, dilakukan juga identifikasi teknik visualisasi data yang tepat untuk ditampilkan pada dashboard. Beberapa teknik visualisasi data yang dipilih antara lain adalah treemap, circle chart, line chart, horizontal bar chart, donut chart, dan thematic map. Dengan menggunakan data yang sudah dilakukan preprocessing data, kemudian visualisasi data dibangun pada Software Tableau sesuai dengan teknik visualisasi data yang sudah diidentifikasi sebelumnya. </p>
-<p align="center">
-<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/data%20visualisasi%20uas.png" width="300" height="450" />
-</p>
 
  <br></br>
 <h2> Perancangan Dashboard</h2>
