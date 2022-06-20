@@ -46,3 +46,8 @@
 
 <h2>Publikasi Dashboard Tableau</h2>
 <p align="justify"> Langkah terakhir adalah mempublikasikan dashboard. Dalam hal ini, peneliti memanfaatkan fitur yang ada di Tableau, yaitu publikasi via Tableau Public. </p>
+<br></br>
+
+<h2>Workbook Project Tableau</h2>
+<p align="justify">Berikut ini adalah link untuk mengakses workbook tableau yang dikerjakan : https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/SARAH%20MUTIA%20221910787%20PROJECT%20VISDAT.twb</p>
+<br></br>
