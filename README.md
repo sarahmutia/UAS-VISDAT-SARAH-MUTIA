@@ -2,38 +2,27 @@
 
 <h1 align="center"> DASHBOARD INFORMASI STRATEGIS PROVINSI JAWA TENGAH </h1>
 <p align="center">(Dimensi : Kependudukan, Ekonomi, dan Pendidikan)</p>
-<p align="justify">Indonesia merupakan urutan keempat Negara dengan penduduk terbanyak di dunia. Dengan banyaknya jumlah penduduk di Indonesia, timbul pertanyaan mengenai keadaan dan kondisi masyarakat Indonesia. Apakah semua rakyat Indonesia sudah memiliki kehidupan layak atau belum. Kehidupan yang layak dapat dilihat dari pemenuhan kebutuhan masyarakat. Kebutuhan primer manusia terdiri dari tiga yaitu Sandang, Papan dan Pangan. tujuan dari penelitian ini adalah untuk memvisualisasikan hasil dari pengelompokkan beberapa indikator sosial kependudukan berdasarkan provinsi. Pengelompokkan ini dilakukan untuk melihat bagaimana persebaran penduduk Indonesia berdasarkan indikator tersebut yang selanjutnya diharapkan dapat membantu pemerintah dalam pengambilan kebijakan sesuai dengan hasil pengelompokkan. Data yang digunakan dalam penelitian ini adalah data sekunder yang bersumber dari Badan Pusat Statistik yaitu data Persentase Rumah Tangga menurut Provinsi dan Sumber Penerangan Listrik PLN 1993 – 2020, Persentase Rumah Tangga menurut Provinsi dan Sumber Air Minum Layak 1993 – 2020, Persentase Rumah Tangga menurut Provinsi dan Memiliki Akses terhadap Sanitasi Layak, Persentase Rumah Tangga menurut Provinsi dan Status Kepemilikan Rumah Kontrak/sewa, dan Persentase Rumah Tangga yang memiliki Akses Terhadap Hunian Yang Layak dan Terjangkau menurut Provinsi. </p>
+<p align="justify">Jawa Tengah merupakan salah satu provinsi di Indonesia yang terdiri dari 29 kabupaten dan 6 kota. Dari hasil Sensus Penduduk 2020, jumlah penduduk di Jawa Tengah sebanyak 36,51 juta jiwa. Jawa Tengah merupakan provinsi urutan ketiga dengan penduduk terbanyak di Indonesia. Dengan keadaan penduduk yang tergolong sangat padat, sangat banyak informasi strategis dari berbagai dimensi kehidupan yang diperlukan oleh masyarakat Jawa Tengah khususnya dan masyarakat Indonesia pada umumnya. Informasi yang umumnya dibutuhkan masyarakat bersala dari dimensi Kependudukan, dimensi Ekonomi, dan dimensi Pendidikan. Informasi yang diperoleh harapannya dapat digunakan oleh berbagai kalangan untuk melakukan analisis lebih lanjut.</p>
+<p align="justify">Oleh sebab itu peneliti ingin membangun dashboard visualisasi data yang berisi informasi strategis Provinsi Jawa Tengah dengan platform Tableau. Penelitian ini berjudul “Dashboard Informasi Strategis Provinsi Jawa Tengah”. Dashboard Informasi Strategis Jawa Tengah ini akan berisi informasi strategis dari 3 dimensi, yaitu dimensi Kependudukan, dimensi Ekonomi, dan dimensi Pendidikan. </p>
 <h2 align="justify">Data yang digunakan</h2>
-<p align="justify">Data yang digunakan pada penelitian ini adalah data hasil Susenas yang dilakukan oleh Badan Pusat Statistik.</p> 
-Variabel bebas yang digunakan:
-<p align="justify">- Persentase Rumah Tangga menurut Provinsi dan Sumber Penerangan Listrik PLN 1993 – 2020</p>
-<p align="justify">- Persentase Rumah Tangga menurut Provinsi dan Sumber Air Minum Layak 1993 – 2020</p>
-<p align="justify">- Persentase Rumah Tangga menurut Provinsi dan Memiliki Akses terhadap Sanitasi Layak</p>
-<p align="justify">- Persentase Rumah Tangga menurut Provinsi dan Status Kepemilikan Rumah Kontrak/sewa</p>
-<p align="justify">- Persentase Rumah Tangga yang memiliki Akses Terhadap Hunian Yang Layak dan Terjangkau menurut Provinsi</p>
+<p align="justify">Penelitian ini menggunakan data dari BPS Provinsi Jawa Tengah yang diakses dari website resmi BPS Provinsi Jawa Tengah (https://jateng.bps.go.id). Data yang yaitu data tahun 2017-2021. Untuk Dimensi Kependudukan menggunakan data Kepadatan Penduduk, Penduduk Menurut Kelompok Umur dan Jenis Kelamin, Penduduk menurut Status Pekerjaan, Penduduk menurut Agama, Penduduk menurut Status Perkawinan, Angka Harapan Hidup, dan Nilai Indeks Pembangunan Manusia. Dimensi Ekonomi menggunakan data Inflasi, Tingkat PDRB, Tingkat Kemiskinan, Banyaknya Ekspor Impor, dan Jenis Lapangan Usaha di Jawa Tengah. Sementara itu, untuk dimensi Pendidikan, menggunakan data Rata-rata Lama Sekolah, Banyaknya Murid di Tiap Jenjang Pendidikan, Angka Melek Huruf, Angka Partisipasi Sekolah, dan Banyaknya Fasilitas Sarana Pendidikan.</p>
 <br></br>
+
 <h2>Analisis Data</h2>
 <h3>Preprocessing</h3>
-<p align="justify"> Data yang digunakan pada penelitian ini dikumpulkan secara kumulatif. Sebelum dilakukan proses lebih lanjut, akan dilakukan preprocessing data untuk mengubah data mentah menjadi informasi yang lebih bersih untuk pengolahan </p>
+<p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data. Dalam hal ini digunakan software Mircosoft Excel sebagai sarana pengelompokkan data. Data dikelompokkan berdasarkan jenis visualisasi yang akan dibuat. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Selain itu juga dibuat beberapa kolom baru sebagai filter yang akan digunbakan pada dashboard. </p>
 <p align="center">
 <img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/data%20visualisasi%20uas.png" width="300" height="450" />
 </p>
+
 <br></br>
 
-<h3>Analisis Deskriptif</h3>
-
+<h3>Visualisasi Data</h3>
+<p align="justify">Data yang telah selesai dilakukan preprocessing, selanjutnya dilakukan visualisasi. Namun sebelum itu, dilakukan juga identifikasi teknik visualisasi data yang tepat untuk ditampilkan pada dashboard. Beberapa teknik visualisasi data yang dipilih antara lain adalah treemap, circle chart, line chart, horizontal bar chart, donut chart, dan thematic map. Dengan menggunakan data yang sudah dilakukan preprocessing data, kemudian visualisasi data dibangun pada Software Tableau sesuai dengan teknik visualisasi data yang sudah diidentifikasi sebelumnya. </p>
 <p align="center">
-<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/2.png" width="400" height="250" />
+<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/data%20visualisasi%20uas.png" width="300" height="450" />
 </p>
-<p align="justify">Berdasarkan hasil ringkasan data variabel penelitian menggunakan software R di atas diketahui bahwa untuk variabel Listrik PLN mempunyai nilai minimum sebesar 43,14% dan nilai maksimum sebesar 99,99% dengan nilai rata-rata sebesar 93,28%. Untuk variabel Air Minum Layak mempunyai nilai minimum sebesar 62,47% dan nilai maksimum sebesar 99,84 % dengan nilai rata-rata sebesar 85,41%. Untuk variabel Sanitasi Layak memiliki nilai minimum sebesar 40,31% dan nilai maksimum sebesar 96,96% dengan nilai ratarata sebesar 79,81%. Untuk variabel Kontrak/Sewa memiliki nilai minimum sebesar 2,15% dan nilai
-maksimum sebesar 37,71 dengan nilai rata-rata
-9,644%. Terakhir untuk variabel Hunian Layak dan
-Terjangkau menurut Provinsi memiliki nilai minimum
-sebesar 28,56% dan nilai maksimum sebesar 86,19%
-dengan nilai rata-rata sebesar 58,02%. </p>
-<br></br>
-<h2> Clustering</h2>
- <p align="justify"> Berdasarkan hasil clustering dengan metode k-means didapatkan 3 klaster.Klaster pertama adalah kumpulan provinsi yang persentase kesediaan air minum layak atau sanitasi layak nilainya di bawah atau sama dengan rata-rata. Untuk Hunian layak huni pada cluster 1 masih banyak yang di bawah rata-ratanya (58,02%). Klaster 2 adalah kumpulan provinsi yang nilai persentase hampir semua variabelnya berada di atas rata-rata. Dalam kata lain, provinsi yang ada pada cluster 2 adalah provinsi yang mempunyai persentase Hunian layak huni yang tinggi. Klaster 3 berisikan 1 provinsi yaitu provinsi Papua. Persentase semua variabelnya berada di bawah rata-rata artinya, di Provinsi Papua masih sedikit Hunian yang layak huni.</p>
+
  <br></br>
 <h2> Perancangan Dashboard</h2>
 <p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan platform Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
