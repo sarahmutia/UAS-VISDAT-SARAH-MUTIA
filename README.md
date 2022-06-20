@@ -30,24 +30,19 @@
   <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
   </p>
  <p align="center">
-  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20pendidikan.png" width ="900" height="550"/>
+  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20ekonomi.png" width ="900" height="550"/>
   </p>
  <p align="center">
   <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20pendidikan.png" width ="900" height="550"/>
-  </p>
-  
-  
-  
-  <p align="justify">Dashboard ini menampilkan visualisasi data dari beberapa indikator sosial kependudukan untuk analisis hunian layak huni. Pada peta tematik ditampilkan persebaran hunian layak huni menurut provinsi di Indonesia, 5 Provinsi dengan persentase rumah tangga dengan sumber penerangan listrik PLN, 10 provinsi dengan proporsi rumah tangga yang memiliki akses terhadap layanan sanitasi layak tertinggi ,5 provinsi dengan persentase terendah rumah tangga dengan sumber air minum layak tahun 2021, dan proporsi status kepemilikan rumah tangga menurut provinsi.</p>
+  </p>  
+ <p align="justify"> Untuk menyatukan ketiga dashboard tersebut, digunakan tool navigasi yang tersedia pada Tableau untuk membuat pilihan dimensi.</p>
+ <br> </br> 
  
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
 <p align="justify"> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
-<p align="center">
- <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/4.png" width="900" height="550"/></p>
-<p align="justify"> - Pilih kelompok : Pada beberapa visualisasi, ditampilkan pilihan berupa kelompok tahun dari data </p>
-<p align="center">
- <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/3.png" width="900" height="550"/></p>
+<p align="justify"> - Filter Tahun : Untuk menampilkan data sesuai tahun yang diinginkan</p>
 <br></br>
-<h2>Embed Dashboard Tableau</h2>
-<p align="justify"> Dashboard yang dibuat di tableau dapat dipublikasikan dan diakses secara online. Jika ingin menyimpan dalam format html maka hal yang harus dilakukan adalah mengembed dashboard dengan cara menyalin embed code pada tableau lalu diletakkan pada bagian div. 
+
+<h2>Publikasi Dashboard Tableau</h2>
+<p align="justify"> Langkah terakhir adalah mempublikasikan dashboard. Dalam hal ini, peneliti memanfaatkan fitur yang ada di Tableau, yaitu publikasi via Tableau Public. </p>
