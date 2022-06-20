@@ -10,7 +10,7 @@
 
 <h2>Analisis Data</h2>
 <h3>Preprocessing</h3>
-<p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data. Dalam hal ini digunakan software Mircosoft Excel sebagai sarana pengelompokkan data. Data dikelompokkan berdasarkan jenis visualisasi yang akan dibuat. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Selain itu juga dibuat beberapa kolom baru sebagai filter yang akan digunbakan pada dashboard. Data yang telah dipreprocessing dapat diakses melalui : </p>
+<p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data. Dalam hal ini digunakan software Mircosoft Excel sebagai sarana pengelompokkan data. Data dikelompokkan berdasarkan jenis visualisasi yang akan dibuat. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Selain itu juga dibuat beberapa kolom baru sebagai filter yang akan digunbakan pada dashboard. Data yang telah dipreprocessing dapat diakses melalui : https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/DATA%20SOURCE%20PROJECT%20VISDAT%20SARAH%20MUTIA.zip </p>
 <br></br>
 
 <h3>Visualisasi Data</h3>
