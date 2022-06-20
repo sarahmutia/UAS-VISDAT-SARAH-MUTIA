@@ -8,18 +8,26 @@
 <p align="justify">Penelitian ini menggunakan data dari BPS Provinsi Jawa Tengah yang diakses dari website resmi BPS Provinsi Jawa Tengah (https://jateng.bps.go.id). Data yang yaitu data tahun 2017-2021. Untuk Dimensi Kependudukan menggunakan data Kepadatan Penduduk, Penduduk Menurut Kelompok Umur dan Jenis Kelamin, Penduduk menurut Status Pekerjaan, Penduduk menurut Agama, Penduduk menurut Status Perkawinan, Angka Harapan Hidup, dan Nilai Indeks Pembangunan Manusia. Dimensi Ekonomi menggunakan data Inflasi, Tingkat PDRB, Tingkat Kemiskinan, Banyaknya Ekspor Impor, dan Jenis Lapangan Usaha di Jawa Tengah. Sementara itu, untuk dimensi Pendidikan, menggunakan data Rata-rata Lama Sekolah, Banyaknya Murid di Tiap Jenjang Pendidikan, Angka Melek Huruf, Angka Partisipasi Sekolah, dan Banyaknya Fasilitas Sarana Pendidikan.</p>
 <br></br>
 
-<h2>Analisis Data</h2>
+<h2>Tahapan Penelitian</h2>
 <h3>Preprocessing</h3>
 <p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data. Dalam hal ini digunakan software Mircosoft Excel sebagai sarana pengelompokkan data. Data dikelompokkan berdasarkan jenis visualisasi yang akan dibuat. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Selain itu juga dibuat beberapa kolom baru sebagai filter yang akan digunbakan pada dashboard. Data yang telah dipreprocessing dapat diakses melalui : https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/DATA%20SOURCE%20PROJECT%20VISDAT%20SARAH%20MUTIA.zip </p>
 <br></br>
 
 <h3>Visualisasi Data</h3>
 <p align="justify">Data yang telah selesai dilakukan preprocessing, selanjutnya dilakukan visualisasi. Namun sebelum itu, dilakukan juga identifikasi teknik visualisasi data yang tepat untuk ditampilkan pada dashboard. Beberapa teknik visualisasi data yang dipilih antara lain adalah treemap, circle chart, line chart, horizontal bar chart, donut chart, dan thematic map. Dengan menggunakan data yang sudah dilakukan preprocessing data, kemudian visualisasi data dibangun pada Software Tableau sesuai dengan teknik visualisasi data yang sudah diidentifikasi sebelumnya. </p>
-
- <br></br>
-<h2> Perancangan Dashboard</h2>
-<p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan platform Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
 <br></br>
+ 
+<h3> Pembuatan Dashboard</h3>
+<p align="justify"> Berbagai macam bentuk visualisasi yang telah dibuat disatukan dalam Dashboard. Dalam hal ini dibuat sebanyak 3 buah dashboard sesuai masing masing dimensi yang kemudian disatukan dengan navigasi. Pada tahapan ini juga dilakukan modifikasi terhadap visualisasi yang telah dibuat, yaitu dengan memerhatikan harmonisasi warna dan tata letak.</p>
+<br></br>
+
+<h3> Kerangka Penelitian</h3>
+<p align="center">
+  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
+  </p>
+
+<br></br>
+
 <h2> Pembuatan Dashboard Visualisasi </h2>
 <p>Dashboard dapat diakses secara daring melalui link https://public.tableau.com/app/profile/umi.maisyuroh/viz/INSYAALLAHUDHBENER/Dashboard1?publish=yes </p>
 <p>Jenis visualisasi yang digunakan adalah :</p>
