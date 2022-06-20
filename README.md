@@ -30,10 +30,10 @@
   <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
   </p>
  <p align="center">
-  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
+  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20pendidikan.png" width ="900" height="550"/>
   </p>
  <p align="center">
-  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
+  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20pendidikan.png" width ="900" height="550"/>
   </p>
   
   
