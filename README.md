@@ -10,11 +10,7 @@
 
 <h2>Analisis Data</h2>
 <h3>Preprocessing</h3>
-<p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data. Dalam hal ini digunakan software Mircosoft Excel sebagai sarana pengelompokkan data. Data dikelompokkan berdasarkan jenis visualisasi yang akan dibuat. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Selain itu juga dibuat beberapa kolom baru sebagai filter yang akan digunbakan pada dashboard. </p>
-<p align="center">
-<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/data%20visualisasi%20uas.png" width="300" height="450" />
-</p>
-
+<p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data. Dalam hal ini digunakan software Mircosoft Excel sebagai sarana pengelompokkan data. Data dikelompokkan berdasarkan jenis visualisasi yang akan dibuat. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Selain itu juga dibuat beberapa kolom baru sebagai filter yang akan digunbakan pada dashboard. Data yang telah dipreprocessing dapat diakses melalui : </p>
 <br></br>
 
 <h3>Visualisasi Data</h3>
