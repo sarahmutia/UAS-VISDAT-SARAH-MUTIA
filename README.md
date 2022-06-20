@@ -30,7 +30,7 @@
 <br> </br>
 <h2>Tampilan Dashboard</h2>
 <p align="center">
-  <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/5.png" width ="900" height="550"/>
+  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
   </p>
   <p align="justify">Dashboard ini menampilkan visualisasi data dari beberapa indikator sosial kependudukan untuk analisis hunian layak huni. Pada peta tematik ditampilkan persebaran hunian layak huni menurut provinsi di Indonesia, 5 Provinsi dengan persentase rumah tangga dengan sumber penerangan listrik PLN, 10 provinsi dengan proporsi rumah tangga yang memiliki akses terhadap layanan sanitasi layak tertinggi ,5 provinsi dengan persentase terendah rumah tangga dengan sumber air minum layak tahun 2021, dan proporsi status kepemilikan rumah tangga menurut provinsi.</p>
  
