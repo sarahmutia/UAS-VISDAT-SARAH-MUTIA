@@ -21,25 +21,23 @@
 <p align="justify"> Berbagai macam bentuk visualisasi yang telah dibuat disatukan dalam Dashboard. Dalam hal ini dibuat sebanyak 3 buah dashboard sesuai masing masing dimensi yang kemudian disatukan dengan navigasi. Pada tahapan ini juga dilakukan modifikasi terhadap visualisasi yang telah dibuat, yaitu dengan memerhatikan harmonisasi warna dan tata letak.</p>
 <br></br>
 
-<h3> Kerangka Penelitian</h3>
-<p align="center">
-  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
-  </p>
-
-<br></br>
-
-<h2> Pembuatan Dashboard Visualisasi </h2>
-<p>Dashboard dapat diakses secara daring melalui link https://public.tableau.com/app/profile/umi.maisyuroh/viz/INSYAALLAHUDHBENER/Dashboard1?publish=yes </p>
-<p>Jenis visualisasi yang digunakan adalah :</p>
-<p> * Peta Tematik</p>
-<p> * Bar Chart </p>
-<p> * Tabel </p>
-<p> * Horizontal Bar Chart </p>
+<h2> HASIL DASHBOARD INFORMASI STRATEGIS PROVINSI JAWA TENGAH </h2>
+<p>Dashboard dapat diakses secara daring melalui link https://public.tableau.com/app/profile/sarah.mutia/viz/SARAHMUTIA221910787PROJECTVISDAT/DASHKEPENDUDUKAN  </p>
 <br> </br>
+
 <h2>Tampilan Dashboard</h2>
 <p align="center">
   <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
   </p>
+ <p align="center">
+  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
+  </p>
+ <p align="center">
+  <img src="https://github.com/sarahmutia/UAS-VISDAT-SARAH-MUTIA/blob/main/dash%20kependudukan.png" width ="900" height="550"/>
+  </p>
+  
+  
+  
   <p align="justify">Dashboard ini menampilkan visualisasi data dari beberapa indikator sosial kependudukan untuk analisis hunian layak huni. Pada peta tematik ditampilkan persebaran hunian layak huni menurut provinsi di Indonesia, 5 Provinsi dengan persentase rumah tangga dengan sumber penerangan listrik PLN, 10 provinsi dengan proporsi rumah tangga yang memiliki akses terhadap layanan sanitasi layak tertinggi ,5 provinsi dengan persentase terendah rumah tangga dengan sumber air minum layak tahun 2021, dan proporsi status kepemilikan rumah tangga menurut provinsi.</p>
  
 <h2> Tambahan pada Dashboard</h2>
